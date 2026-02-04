@@ -1,0 +1,4 @@
+ro.build.version.release = 14
+ro.build.version.sdk     = 34
+ro.product.model         = sdk_gphone64_x86_64
+ro.build.fingerprint     = google/sdk_gphone64_x86_64/emu64xa:14/UE1A.230829.050/12077443:userdebug/dev-keys
